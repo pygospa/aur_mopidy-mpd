@@ -8,7 +8,7 @@ pkgrel=3
 pkgdesc="Mopidy extension for controlling playback from MPD clients"
 arch=('any')
 url="http://www.mopidy.com"
-license=('APACHE')
+license=('Apache-2.0')
 depends=('mopidy>=3.0'
          'python-pykka')
 makedepends=('python3' 'python-setuptools')
